@@ -12,10 +12,11 @@ Data analytics is the process of analyzing and interpreting large sets of data t
    - The data analysis profession
 2. Statistics and probability
 3. Python
-4. Getting data
-5. Data wrangling
-6. Data cleaning
-7. Numpy
-8. Pandas
-9. Matplotlib
-10. Data visualization
+4. SQL
+5. Getting data
+6. Data wrangling
+7. Data cleaning
+8. Numpy
+9. Pandas
+10. Matplotlib
+11. Data visualization
