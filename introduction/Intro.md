@@ -20,4 +20,4 @@ There are several types of data analytics, including descriptive analytics, whic
 
 6. Text analytics: This involves extracting insights from text data, such as social media posts, customer reviews, and emails. It involves using techniques such as natural language processing, sentiment analysis, and topic modeling to analyze text data.
 
-8. Web analytics: This involves analyzing data from websites and online platforms to understand user behavior and optimize the user experience. It involves using tools such as Google Analytics to track and analyze user behavior on websites.
+7. Web analytics: This involves analyzing data from websites and online platforms to understand user behavior and optimize the user experience. It involves using tools such as Google Analytics to track and analyze user behavior on websites.
